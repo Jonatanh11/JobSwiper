@@ -41,12 +41,12 @@ export default function OmOss() {
             </div>
             <div className="team-card">
               <div className="team-avatar">👤</div>
-              <h3>Even Hjelmeseth</h3>
+              <h3>Even Hjelmeset</h3>
               <span className="team-role">Produktutvikler</span>
             </div>
             <div className="team-card">
               <div className="team-avatar">👤</div>
-              <h3>Oliver Ødegaard</h3>
+              <h3>Oliver Ødegaard-Nordbyhaug</h3>
               <span className="team-role">Økonomi ansvarlig</span>
             </div>
             <div className="team-card">
@@ -56,7 +56,7 @@ export default function OmOss() {
             </div>
             <div className="team-card">
               <div className="team-avatar">👤</div>
-              <h3>Melissa Gökmen</h3>
+              <h3>Melisa Gökmen</h3>
               <span className="team-role">Markedsføringsansvarlig</span>
             </div>
           </div>
